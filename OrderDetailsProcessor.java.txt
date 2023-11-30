@@ -50,3 +50,8 @@ public class OrderDetailsProcessor {
             System.out.println("--------");
         }
     }
+
+    public static double calculateTotalPrice(int quantity, double unitPrice, double discount) {
+        return unitPrice * quantity - (discount * quantity * unitPrice);
+    }
+}
