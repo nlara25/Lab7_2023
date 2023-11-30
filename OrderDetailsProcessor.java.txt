@@ -11,3 +11,22 @@ public class OrderDetailsProcessor {
             System.out.println("No valid data found.");
         }
     }
+
+    public static ArrayList<String[]> readFile(String filePath) {
+        ArrayList<String[]> dataList = new ArrayList<>();
+        try {
+            BufferedReader reader = new BufferedReader(new FileReader(filePath));
+            String line;
+            while ((line = reader.readLine()) != null) {
+                String[] values = line.split(",");
+                if (values.length == 5) {
+                    dataList.add(values);
+                }
+            }
+            reader.close();
+            return dataList;
+        } catch (IOException e) {
+            e.printStackTrace();
+            return null;
+        }
+    }
