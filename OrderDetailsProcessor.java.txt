@@ -3,3 +3,11 @@ import java.util.*;
 
 public class OrderDetailsProcessor {
 
+    public static void main(String[] args) {
+        ArrayList<String[]> data = readFile("C:\\Users\\checkout\\Downloads\\OrderDetails.txt");
+        if (data != null) {
+            processOrderDetails(data);
+        } else {
+            System.out.println("No valid data found.");
+        }
+    }
