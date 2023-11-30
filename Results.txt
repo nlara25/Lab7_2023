@@ -1,0 +1,3272 @@
+--------
+Order ID: 10893
+Product ID: 36
+Unit Price: $19.0
+Quantity: 20
+Discount: 0.0
+Total Price: $380.0
+--------
+Order ID: 10894
+Product ID: 13
+Unit Price: $6.0
+Quantity: 28
+Discount: 0.05
+Total Price: $159.6
+--------
+Order ID: 10894
+Product ID: 69
+Unit Price: $36.0
+Quantity: 50
+Discount: 0.05
+Total Price: $1710.0
+--------
+Order ID: 10894
+Product ID: 75
+Unit Price: $7.75
+Quantity: 120
+Discount: 0.05
+Total Price: $883.5
+--------
+Order ID: 10895
+Product ID: 24
+Unit Price: $4.5
+Quantity: 110
+Discount: 0.0
+Total Price: $495.0
+--------
+Order ID: 10895
+Product ID: 39
+Unit Price: $18.0
+Quantity: 45
+Discount: 0.0
+Total Price: $810.0
+--------
+Order ID: 10895
+Product ID: 40
+Unit Price: $18.4
+Quantity: 91
+Discount: 0.0
+Total Price: $1674.3999999999999
+--------
+Order ID: 10895
+Product ID: 60
+Unit Price: $34.0
+Quantity: 100
+Discount: 0.0
+Total Price: $3400.0
+--------
+Order ID: 10896
+Product ID: 45
+Unit Price: $9.5
+Quantity: 15
+Discount: 0.0
+Total Price: $142.5
+--------
+Order ID: 10896
+Product ID: 56
+Unit Price: $38.0
+Quantity: 16
+Discount: 0.0
+Total Price: $608.0
+--------
+Order ID: 10897
+Product ID: 29
+Unit Price: $123.79
+Quantity: 80
+Discount: 0.0
+Total Price: $9903.2
+--------
+Order ID: 10897
+Product ID: 30
+Unit Price: $25.89
+Quantity: 36
+Discount: 0.0
+Total Price: $932.04
+--------
+Order ID: 10898
+Product ID: 13
+Unit Price: $6.0
+Quantity: 5
+Discount: 0.0
+Total Price: $30.0
+--------
+Order ID: 10899
+Product ID: 39
+Unit Price: $18.0
+Quantity: 8
+Discount: 0.15
+Total Price: $122.4
+--------
+Order ID: 10900
+Product ID: 70
+Unit Price: $15.0
+Quantity: 3
+Discount: 0.25
+Total Price: $33.75
+--------
+Order ID: 10901
+Product ID: 41
+Unit Price: $9.65
+Quantity: 30
+Discount: 0.0
+Total Price: $289.5
+--------
+Order ID: 10901
+Product ID: 71
+Unit Price: $21.5
+Quantity: 30
+Discount: 0.0
+Total Price: $645.0
+--------
+Order ID: 10902
+Product ID: 55
+Unit Price: $24.0
+Quantity: 30
+Discount: 0.15
+Total Price: $612.0
+--------
+Order ID: 10902
+Product ID: 62
+Unit Price: $49.3
+Quantity: 6
+Discount: 0.15
+Total Price: $251.42999999999995
+--------
+Order ID: 10903
+Product ID: 13
+Unit Price: $6.0
+Quantity: 40
+Discount: 0.0
+Total Price: $240.0
+--------
+Order ID: 10903
+Product ID: 65
+Unit Price: $21.05
+Quantity: 21
+Discount: 0.0
+Total Price: $442.05
+--------
+Order ID: 10903
+Product ID: 68
+Unit Price: $12.5
+Quantity: 20
+Discount: 0.0
+Total Price: $250.0
+--------
+Order ID: 10904
+Product ID: 58
+Unit Price: $13.25
+Quantity: 15
+Discount: 0.0
+Total Price: $198.75
+--------
+Order ID: 10904
+Product ID: 62
+Unit Price: $49.3
+Quantity: 35
+Discount: 0.0
+Total Price: $1725.5
+--------
+Order ID: 10905
+Product ID: 1
+Unit Price: $18.0
+Quantity: 20
+Discount: 0.05
+Total Price: $342.0
+--------
+Order ID: 10906
+Product ID: 61
+Unit Price: $28.5
+Quantity: 15
+Discount: 0.0
+Total Price: $427.5
+--------
+Order ID: 10907
+Product ID: 75
+Unit Price: $7.75
+Quantity: 14
+Discount: 0.0
+Total Price: $108.5
+--------
+Order ID: 10908
+Product ID: 7
+Unit Price: $30.0
+Quantity: 20
+Discount: 0.05
+Total Price: $570.0
+--------
+Order ID: 10908
+Product ID: 52
+Unit Price: $7.0
+Quantity: 14
+Discount: 0.05
+Total Price: $93.1
+--------
+Order ID: 10909
+Product ID: 7
+Unit Price: $30.0
+Quantity: 12
+Discount: 0.0
+Total Price: $360.0
+--------
+Order ID: 10909
+Product ID: 16
+Unit Price: $17.45
+Quantity: 15
+Discount: 0.0
+Total Price: $261.75
+--------
+Order ID: 10909
+Product ID: 41
+Unit Price: $9.65
+Quantity: 5
+Discount: 0.0
+Total Price: $48.25
+--------
+Order ID: 10910
+Product ID: 19
+Unit Price: $9.2
+Quantity: 12
+Discount: 0.0
+Total Price: $110.39999999999999
+--------
+Order ID: 10910
+Product ID: 49
+Unit Price: $20.0
+Quantity: 10
+Discount: 0.0
+Total Price: $200.0
+--------
+Order ID: 10910
+Product ID: 61
+Unit Price: $28.5
+Quantity: 5
+Discount: 0.0
+Total Price: $142.5
+--------
+Order ID: 10911
+Product ID: 1
+Unit Price: $18.0
+Quantity: 10
+Discount: 0.0
+Total Price: $180.0
+--------
+Order ID: 10911
+Product ID: 17
+Unit Price: $39.0
+Quantity: 12
+Discount: 0.0
+Total Price: $468.0
+--------
+Order ID: 10911
+Product ID: 67
+Unit Price: $14.0
+Quantity: 15
+Discount: 0.0
+Total Price: $210.0
+--------
+Order ID: 10912
+Product ID: 11
+Unit Price: $21.0
+Quantity: 40
+Discount: 0.25
+Total Price: $630.0
+--------
+Order ID: 10912
+Product ID: 29
+Unit Price: $123.79
+Quantity: 60
+Discount: 0.25
+Total Price: $5570.55
+--------
+Order ID: 10913
+Product ID: 4
+Unit Price: $22.0
+Quantity: 30
+Discount: 0.25
+Total Price: $495.0
+--------
+Order ID: 10913
+Product ID: 33
+Unit Price: $2.5
+Quantity: 40
+Discount: 0.25
+Total Price: $75.0
+--------
+Order ID: 10913
+Product ID: 58
+Unit Price: $13.25
+Quantity: 15
+Discount: 0.0
+Total Price: $198.75
+--------
+Order ID: 10914
+Product ID: 71
+Unit Price: $21.5
+Quantity: 25
+Discount: 0.0
+Total Price: $537.5
+--------
+Order ID: 10915
+Product ID: 17
+Unit Price: $39.0
+Quantity: 10
+Discount: 0.0
+Total Price: $390.0
+--------
+Order ID: 10915
+Product ID: 33
+Unit Price: $2.5
+Quantity: 30
+Discount: 0.0
+Total Price: $75.0
+--------
+Order ID: 10915
+Product ID: 54
+Unit Price: $7.45
+Quantity: 10
+Discount: 0.0
+Total Price: $74.5
+--------
+Order ID: 10916
+Product ID: 16
+Unit Price: $17.45
+Quantity: 6
+Discount: 0.0
+Total Price: $104.69999999999999
+--------
+Order ID: 10916
+Product ID: 32
+Unit Price: $32.0
+Quantity: 6
+Discount: 0.0
+Total Price: $192.0
+--------
+Order ID: 10916
+Product ID: 57
+Unit Price: $19.5
+Quantity: 20
+Discount: 0.0
+Total Price: $390.0
+--------
+Order ID: 10917
+Product ID: 30
+Unit Price: $25.89
+Quantity: 1
+Discount: 0.0
+Total Price: $25.89
+--------
+Order ID: 10917
+Product ID: 60
+Unit Price: $34.0
+Quantity: 10
+Discount: 0.0
+Total Price: $340.0
+--------
+Order ID: 10918
+Product ID: 1
+Unit Price: $18.0
+Quantity: 60
+Discount: 0.25
+Total Price: $810.0
+--------
+Order ID: 10918
+Product ID: 60
+Unit Price: $34.0
+Quantity: 25
+Discount: 0.25
+Total Price: $637.5
+--------
+Order ID: 10919
+Product ID: 16
+Unit Price: $17.45
+Quantity: 24
+Discount: 0.0
+Total Price: $418.79999999999995
+--------
+Order ID: 10919
+Product ID: 25
+Unit Price: $14.0
+Quantity: 24
+Discount: 0.0
+Total Price: $336.0
+--------
+Order ID: 10919
+Product ID: 40
+Unit Price: $18.4
+Quantity: 20
+Discount: 0.0
+Total Price: $368.0
+--------
+Order ID: 10920
+Product ID: 50
+Unit Price: $16.25
+Quantity: 24
+Discount: 0.0
+Total Price: $390.0
+--------
+Order ID: 10921
+Product ID: 35
+Unit Price: $18.0
+Quantity: 10
+Discount: 0.0
+Total Price: $180.0
+--------
+Order ID: 10921
+Product ID: 63
+Unit Price: $43.9
+Quantity: 40
+Discount: 0.0
+Total Price: $1756.0
+--------
+Order ID: 10922
+Product ID: 17
+Unit Price: $39.0
+Quantity: 15
+Discount: 0.0
+Total Price: $585.0
+--------
+Order ID: 10922
+Product ID: 24
+Unit Price: $4.5
+Quantity: 35
+Discount: 0.0
+Total Price: $157.5
+--------
+Order ID: 10923
+Product ID: 42
+Unit Price: $14.0
+Quantity: 10
+Discount: 0.2
+Total Price: $112.0
+--------
+Order ID: 10923
+Product ID: 43
+Unit Price: $46.0
+Quantity: 10
+Discount: 0.2
+Total Price: $368.0
+--------
+Order ID: 10923
+Product ID: 67
+Unit Price: $14.0
+Quantity: 24
+Discount: 0.2
+Total Price: $268.79999999999995
+--------
+Order ID: 10924
+Product ID: 10
+Unit Price: $31.0
+Quantity: 20
+Discount: 0.1
+Total Price: $558.0
+--------
+Order ID: 10924
+Product ID: 28
+Unit Price: $45.6
+Quantity: 30
+Discount: 0.1
+Total Price: $1231.2
+--------
+Order ID: 10924
+Product ID: 75
+Unit Price: $7.75
+Quantity: 6
+Discount: 0.0
+Total Price: $46.5
+--------
+Order ID: 10925
+Product ID: 36
+Unit Price: $19.0
+Quantity: 25
+Discount: 0.15
+Total Price: $403.75
+--------
+Order ID: 10925
+Product ID: 52
+Unit Price: $7.0
+Quantity: 12
+Discount: 0.15
+Total Price: $71.4
+--------
+Order ID: 10926
+Product ID: 11
+Unit Price: $21.0
+Quantity: 2
+Discount: 0.0
+Total Price: $42.0
+--------
+Order ID: 10926
+Product ID: 13
+Unit Price: $6.0
+Quantity: 10
+Discount: 0.0
+Total Price: $60.0
+--------
+Order ID: 10926
+Product ID: 19
+Unit Price: $9.2
+Quantity: 7
+Discount: 0.0
+Total Price: $64.39999999999999
+--------
+Order ID: 10926
+Product ID: 72
+Unit Price: $34.8
+Quantity: 10
+Discount: 0.0
+Total Price: $348.0
+--------
+Order ID: 10927
+Product ID: 20
+Unit Price: $81.0
+Quantity: 5
+Discount: 0.0
+Total Price: $405.0
+--------
+Order ID: 10927
+Product ID: 52
+Unit Price: $7.0
+Quantity: 5
+Discount: 0.0
+Total Price: $35.0
+--------
+Order ID: 10927
+Product ID: 76
+Unit Price: $18.0
+Quantity: 20
+Discount: 0.0
+Total Price: $360.0
+--------
+Order ID: 10928
+Product ID: 47
+Unit Price: $9.5
+Quantity: 5
+Discount: 0.0
+Total Price: $47.5
+--------
+Order ID: 10928
+Product ID: 76
+Unit Price: $18.0
+Quantity: 5
+Discount: 0.0
+Total Price: $90.0
+--------
+Order ID: 10929
+Product ID: 21
+Unit Price: $10.0
+Quantity: 60
+Discount: 0.0
+Total Price: $600.0
+--------
+Order ID: 10929
+Product ID: 75
+Unit Price: $7.75
+Quantity: 49
+Discount: 0.0
+Total Price: $379.75
+--------
+Order ID: 10929
+Product ID: 77
+Unit Price: $13.0
+Quantity: 15
+Discount: 0.0
+Total Price: $195.0
+--------
+Order ID: 10930
+Product ID: 21
+Unit Price: $10.0
+Quantity: 36
+Discount: 0.0
+Total Price: $360.0
+--------
+Order ID: 10930
+Product ID: 27
+Unit Price: $43.9
+Quantity: 25
+Discount: 0.0
+Total Price: $1097.5
+--------
+Order ID: 10930
+Product ID: 55
+Unit Price: $24.0
+Quantity: 25
+Discount: 0.2
+Total Price: $480.0
+--------
+Order ID: 10930
+Product ID: 58
+Unit Price: $13.25
+Quantity: 30
+Discount: 0.2
+Total Price: $318.0
+--------
+Order ID: 10931
+Product ID: 13
+Unit Price: $6.0
+Quantity: 42
+Discount: 0.15
+Total Price: $214.2
+--------
+Order ID: 10931
+Product ID: 57
+Unit Price: $19.5
+Quantity: 30
+Discount: 0.0
+Total Price: $585.0
+--------
+Order ID: 10932
+Product ID: 16
+Unit Price: $17.45
+Quantity: 30
+Discount: 0.1
+Total Price: $471.15
+--------
+Order ID: 10932
+Product ID: 62
+Unit Price: $49.3
+Quantity: 14
+Discount: 0.1
+Total Price: $621.18
+--------
+Order ID: 10932
+Product ID: 72
+Unit Price: $34.8
+Quantity: 16
+Discount: 0.0
+Total Price: $556.8
+--------
+Order ID: 10932
+Product ID: 75
+Unit Price: $7.75
+Quantity: 20
+Discount: 0.1
+Total Price: $139.5
+--------
+Order ID: 10933
+Product ID: 53
+Unit Price: $32.8
+Quantity: 2
+Discount: 0.0
+Total Price: $65.6
+--------
+Order ID: 10933
+Product ID: 61
+Unit Price: $28.5
+Quantity: 30
+Discount: 0.0
+Total Price: $855.0
+--------
+Order ID: 10934
+Product ID: 6
+Unit Price: $25.0
+Quantity: 20
+Discount: 0.0
+Total Price: $500.0
+--------
+Order ID: 10935
+Product ID: 1
+Unit Price: $18.0
+Quantity: 21
+Discount: 0.0
+Total Price: $378.0
+--------
+Order ID: 10935
+Product ID: 18
+Unit Price: $62.5
+Quantity: 4
+Discount: 0.25
+Total Price: $187.5
+--------
+Order ID: 10935
+Product ID: 23
+Unit Price: $9.0
+Quantity: 8
+Discount: 0.25
+Total Price: $54.0
+--------
+Order ID: 10936
+Product ID: 36
+Unit Price: $19.0
+Quantity: 30
+Discount: 0.2
+Total Price: $456.0
+--------
+Order ID: 10937
+Product ID: 28
+Unit Price: $45.6
+Quantity: 8
+Discount: 0.0
+Total Price: $364.8
+--------
+Order ID: 10937
+Product ID: 34
+Unit Price: $14.0
+Quantity: 20
+Discount: 0.0
+Total Price: $280.0
+--------
+Order ID: 10938
+Product ID: 13
+Unit Price: $6.0
+Quantity: 20
+Discount: 0.25
+Total Price: $90.0
+--------
+Order ID: 10938
+Product ID: 43
+Unit Price: $46.0
+Quantity: 24
+Discount: 0.25
+Total Price: $828.0
+--------
+Order ID: 10938
+Product ID: 60
+Unit Price: $34.0
+Quantity: 49
+Discount: 0.25
+Total Price: $1249.5
+--------
+Order ID: 10938
+Product ID: 71
+Unit Price: $21.5
+Quantity: 35
+Discount: 0.25
+Total Price: $564.375
+--------
+Order ID: 10939
+Product ID: 2
+Unit Price: $19.0
+Quantity: 10
+Discount: 0.15
+Total Price: $161.5
+--------
+Order ID: 10939
+Product ID: 67
+Unit Price: $14.0
+Quantity: 40
+Discount: 0.15
+Total Price: $476.0
+--------
+Order ID: 10940
+Product ID: 7
+Unit Price: $30.0
+Quantity: 8
+Discount: 0.0
+Total Price: $240.0
+--------
+Order ID: 10940
+Product ID: 13
+Unit Price: $6.0
+Quantity: 20
+Discount: 0.0
+Total Price: $120.0
+--------
+Order ID: 10941
+Product ID: 31
+Unit Price: $12.5
+Quantity: 44
+Discount: 0.25
+Total Price: $412.5
+--------
+Order ID: 10941
+Product ID: 62
+Unit Price: $49.3
+Quantity: 30
+Discount: 0.25
+Total Price: $1109.25
+--------
+Order ID: 10941
+Product ID: 68
+Unit Price: $12.5
+Quantity: 80
+Discount: 0.25
+Total Price: $750.0
+--------
+Order ID: 10941
+Product ID: 72
+Unit Price: $34.8
+Quantity: 50
+Discount: 0.0
+Total Price: $1739.9999999999998
+--------
+Order ID: 10942
+Product ID: 49
+Unit Price: $20.0
+Quantity: 28
+Discount: 0.0
+Total Price: $560.0
+--------
+Order ID: 10943
+Product ID: 13
+Unit Price: $6.0
+Quantity: 15
+Discount: 0.0
+Total Price: $90.0
+--------
+Order ID: 10943
+Product ID: 22
+Unit Price: $21.0
+Quantity: 21
+Discount: 0.0
+Total Price: $441.0
+--------
+Order ID: 10943
+Product ID: 46
+Unit Price: $12.0
+Quantity: 15
+Discount: 0.0
+Total Price: $180.0
+--------
+Order ID: 10944
+Product ID: 11
+Unit Price: $21.0
+Quantity: 5
+Discount: 0.25
+Total Price: $78.75
+--------
+Order ID: 10944
+Product ID: 44
+Unit Price: $19.45
+Quantity: 18
+Discount: 0.25
+Total Price: $262.575
+--------
+Order ID: 10944
+Product ID: 56
+Unit Price: $38.0
+Quantity: 18
+Discount: 0.0
+Total Price: $684.0
+--------
+Order ID: 10945
+Product ID: 13
+Unit Price: $6.0
+Quantity: 20
+Discount: 0.0
+Total Price: $120.0
+--------
+Order ID: 10945
+Product ID: 31
+Unit Price: $12.5
+Quantity: 10
+Discount: 0.0
+Total Price: $125.0
+--------
+Order ID: 10946
+Product ID: 10
+Unit Price: $31.0
+Quantity: 25
+Discount: 0.0
+Total Price: $775.0
+--------
+Order ID: 10946
+Product ID: 24
+Unit Price: $4.5
+Quantity: 25
+Discount: 0.0
+Total Price: $112.5
+--------
+Order ID: 10946
+Product ID: 77
+Unit Price: $13.0
+Quantity: 40
+Discount: 0.0
+Total Price: $520.0
+--------
+Order ID: 10947
+Product ID: 59
+Unit Price: $55.0
+Quantity: 4
+Discount: 0.0
+Total Price: $220.0
+--------
+Order ID: 10948
+Product ID: 50
+Unit Price: $16.25
+Quantity: 9
+Discount: 0.0
+Total Price: $146.25
+--------
+Order ID: 10948
+Product ID: 51
+Unit Price: $53.0
+Quantity: 40
+Discount: 0.0
+Total Price: $2120.0
+--------
+Order ID: 10948
+Product ID: 55
+Unit Price: $24.0
+Quantity: 4
+Discount: 0.0
+Total Price: $96.0
+--------
+Order ID: 10949
+Product ID: 6
+Unit Price: $25.0
+Quantity: 12
+Discount: 0.0
+Total Price: $300.0
+--------
+Order ID: 10949
+Product ID: 10
+Unit Price: $31.0
+Quantity: 30
+Discount: 0.0
+Total Price: $930.0
+--------
+Order ID: 10949
+Product ID: 17
+Unit Price: $39.0
+Quantity: 6
+Discount: 0.0
+Total Price: $234.0
+--------
+Order ID: 10949
+Product ID: 62
+Unit Price: $49.3
+Quantity: 60
+Discount: 0.0
+Total Price: $2958.0
+--------
+Order ID: 10950
+Product ID: 4
+Unit Price: $22.0
+Quantity: 5
+Discount: 0.0
+Total Price: $110.0
+--------
+Order ID: 10951
+Product ID: 33
+Unit Price: $2.5
+Quantity: 15
+Discount: 0.05
+Total Price: $35.625
+--------
+Order ID: 10951
+Product ID: 41
+Unit Price: $9.65
+Quantity: 6
+Discount: 0.05
+Total Price: $55.005
+--------
+Order ID: 10951
+Product ID: 75
+Unit Price: $7.75
+Quantity: 50
+Discount: 0.05
+Total Price: $368.125
+--------
+Order ID: 10952
+Product ID: 6
+Unit Price: $25.0
+Quantity: 16
+Discount: 0.05
+Total Price: $380.0
+--------
+Order ID: 10952
+Product ID: 28
+Unit Price: $45.6
+Quantity: 2
+Discount: 0.0
+Total Price: $91.2
+--------
+Order ID: 10953
+Product ID: 20
+Unit Price: $81.0
+Quantity: 50
+Discount: 0.05
+Total Price: $3847.5
+--------
+Order ID: 10953
+Product ID: 31
+Unit Price: $12.5
+Quantity: 50
+Discount: 0.05
+Total Price: $593.75
+--------
+Order ID: 10954
+Product ID: 16
+Unit Price: $17.45
+Quantity: 28
+Discount: 0.15
+Total Price: $415.30999999999995
+--------
+Order ID: 10954
+Product ID: 31
+Unit Price: $12.5
+Quantity: 25
+Discount: 0.15
+Total Price: $265.625
+--------
+Order ID: 10954
+Product ID: 45
+Unit Price: $9.5
+Quantity: 30
+Discount: 0.0
+Total Price: $285.0
+--------
+Order ID: 10954
+Product ID: 60
+Unit Price: $34.0
+Quantity: 24
+Discount: 0.15
+Total Price: $693.6
+--------
+Order ID: 10955
+Product ID: 75
+Unit Price: $7.75
+Quantity: 12
+Discount: 0.2
+Total Price: $74.4
+--------
+Order ID: 10956
+Product ID: 21
+Unit Price: $10.0
+Quantity: 12
+Discount: 0.0
+Total Price: $120.0
+--------
+Order ID: 10956
+Product ID: 47
+Unit Price: $9.5
+Quantity: 14
+Discount: 0.0
+Total Price: $133.0
+--------
+Order ID: 10956
+Product ID: 51
+Unit Price: $53.0
+Quantity: 8
+Discount: 0.0
+Total Price: $424.0
+--------
+Order ID: 10957
+Product ID: 30
+Unit Price: $25.89
+Quantity: 30
+Discount: 0.0
+Total Price: $776.7
+--------
+Order ID: 10957
+Product ID: 35
+Unit Price: $18.0
+Quantity: 40
+Discount: 0.0
+Total Price: $720.0
+--------
+Order ID: 10957
+Product ID: 64
+Unit Price: $33.25
+Quantity: 8
+Discount: 0.0
+Total Price: $266.0
+--------
+Order ID: 10958
+Product ID: 5
+Unit Price: $21.35
+Quantity: 20
+Discount: 0.0
+Total Price: $427.0
+--------
+Order ID: 10958
+Product ID: 7
+Unit Price: $30.0
+Quantity: 6
+Discount: 0.0
+Total Price: $180.0
+--------
+Order ID: 10958
+Product ID: 72
+Unit Price: $34.8
+Quantity: 5
+Discount: 0.0
+Total Price: $174.0
+--------
+Order ID: 10959
+Product ID: 75
+Unit Price: $7.75
+Quantity: 20
+Discount: 0.15
+Total Price: $131.75
+--------
+Order ID: 10960
+Product ID: 24
+Unit Price: $4.5
+Quantity: 10
+Discount: 0.25
+Total Price: $33.75
+--------
+Order ID: 10960
+Product ID: 41
+Unit Price: $9.65
+Quantity: 24
+Discount: 0.0
+Total Price: $231.60000000000002
+--------
+Order ID: 10961
+Product ID: 52
+Unit Price: $7.0
+Quantity: 6
+Discount: 0.05
+Total Price: $39.9
+--------
+Order ID: 10961
+Product ID: 76
+Unit Price: $18.0
+Quantity: 60
+Discount: 0.0
+Total Price: $1080.0
+--------
+Order ID: 10962
+Product ID: 7
+Unit Price: $30.0
+Quantity: 45
+Discount: 0.0
+Total Price: $1350.0
+--------
+Order ID: 10962
+Product ID: 13
+Unit Price: $6.0
+Quantity: 77
+Discount: 0.0
+Total Price: $462.0
+--------
+Order ID: 10962
+Product ID: 53
+Unit Price: $32.8
+Quantity: 20
+Discount: 0.0
+Total Price: $656.0
+--------
+Order ID: 10962
+Product ID: 69
+Unit Price: $36.0
+Quantity: 9
+Discount: 0.0
+Total Price: $324.0
+--------
+Order ID: 10962
+Product ID: 76
+Unit Price: $18.0
+Quantity: 44
+Discount: 0.0
+Total Price: $792.0
+--------
+Order ID: 10963
+Product ID: 60
+Unit Price: $34.0
+Quantity: 2
+Discount: 0.15
+Total Price: $57.8
+--------
+Order ID: 10964
+Product ID: 18
+Unit Price: $62.5
+Quantity: 6
+Discount: 0.0
+Total Price: $375.0
+--------
+Order ID: 10964
+Product ID: 38
+Unit Price: $263.5
+Quantity: 5
+Discount: 0.0
+Total Price: $1317.5
+--------
+Order ID: 10964
+Product ID: 69
+Unit Price: $36.0
+Quantity: 10
+Discount: 0.0
+Total Price: $360.0
+--------
+Order ID: 10965
+Product ID: 51
+Unit Price: $53.0
+Quantity: 16
+Discount: 0.0
+Total Price: $848.0
+--------
+Order ID: 10966
+Product ID: 37
+Unit Price: $26.0
+Quantity: 8
+Discount: 0.0
+Total Price: $208.0
+--------
+Order ID: 10966
+Product ID: 56
+Unit Price: $38.0
+Quantity: 12
+Discount: 0.15
+Total Price: $387.6
+--------
+Order ID: 10966
+Product ID: 62
+Unit Price: $49.3
+Quantity: 12
+Discount: 0.15
+Total Price: $502.8599999999999
+--------
+Order ID: 10967
+Product ID: 19
+Unit Price: $9.2
+Quantity: 12
+Discount: 0.0
+Total Price: $110.39999999999999
+--------
+Order ID: 10967
+Product ID: 49
+Unit Price: $20.0
+Quantity: 40
+Discount: 0.0
+Total Price: $800.0
+--------
+Order ID: 10968
+Product ID: 12
+Unit Price: $38.0
+Quantity: 30
+Discount: 0.0
+Total Price: $1140.0
+--------
+Order ID: 10968
+Product ID: 24
+Unit Price: $4.5
+Quantity: 30
+Discount: 0.0
+Total Price: $135.0
+--------
+Order ID: 10968
+Product ID: 64
+Unit Price: $33.25
+Quantity: 4
+Discount: 0.0
+Total Price: $133.0
+--------
+Order ID: 10969
+Product ID: 46
+Unit Price: $12.0
+Quantity: 9
+Discount: 0.0
+Total Price: $108.0
+--------
+Order ID: 10970
+Product ID: 52
+Unit Price: $7.0
+Quantity: 40
+Discount: 0.2
+Total Price: $224.0
+--------
+Order ID: 10971
+Product ID: 29
+Unit Price: $123.79
+Quantity: 14
+Discount: 0.0
+Total Price: $1733.0600000000002
+--------
+Order ID: 10972
+Product ID: 17
+Unit Price: $39.0
+Quantity: 6
+Discount: 0.0
+Total Price: $234.0
+--------
+Order ID: 10972
+Product ID: 33
+Unit Price: $2.5
+Quantity: 7
+Discount: 0.0
+Total Price: $17.5
+--------
+Order ID: 10973
+Product ID: 26
+Unit Price: $31.23
+Quantity: 5
+Discount: 0.0
+Total Price: $156.15
+--------
+Order ID: 10973
+Product ID: 41
+Unit Price: $9.65
+Quantity: 6
+Discount: 0.0
+Total Price: $57.900000000000006
+--------
+Order ID: 10973
+Product ID: 75
+Unit Price: $7.75
+Quantity: 10
+Discount: 0.0
+Total Price: $77.5
+--------
+Order ID: 10974
+Product ID: 63
+Unit Price: $43.9
+Quantity: 10
+Discount: 0.0
+Total Price: $439.0
+--------
+Order ID: 10975
+Product ID: 8
+Unit Price: $40.0
+Quantity: 16
+Discount: 0.0
+Total Price: $640.0
+--------
+Order ID: 10975
+Product ID: 75
+Unit Price: $7.75
+Quantity: 10
+Discount: 0.0
+Total Price: $77.5
+--------
+Order ID: 10976
+Product ID: 28
+Unit Price: $45.6
+Quantity: 20
+Discount: 0.0
+Total Price: $912.0
+--------
+Order ID: 10977
+Product ID: 39
+Unit Price: $18.0
+Quantity: 30
+Discount: 0.0
+Total Price: $540.0
+--------
+Order ID: 10977
+Product ID: 47
+Unit Price: $9.5
+Quantity: 30
+Discount: 0.0
+Total Price: $285.0
+--------
+Order ID: 10977
+Product ID: 51
+Unit Price: $53.0
+Quantity: 10
+Discount: 0.0
+Total Price: $530.0
+--------
+Order ID: 10977
+Product ID: 63
+Unit Price: $43.9
+Quantity: 20
+Discount: 0.0
+Total Price: $878.0
+--------
+Order ID: 10978
+Product ID: 8
+Unit Price: $40.0
+Quantity: 20
+Discount: 0.15
+Total Price: $680.0
+--------
+Order ID: 10978
+Product ID: 21
+Unit Price: $10.0
+Quantity: 40
+Discount: 0.15
+Total Price: $340.0
+--------
+Order ID: 10978
+Product ID: 40
+Unit Price: $18.4
+Quantity: 10
+Discount: 0.0
+Total Price: $184.0
+--------
+Order ID: 10978
+Product ID: 44
+Unit Price: $19.45
+Quantity: 6
+Discount: 0.15
+Total Price: $99.195
+--------
+Order ID: 10979
+Product ID: 7
+Unit Price: $30.0
+Quantity: 18
+Discount: 0.0
+Total Price: $540.0
+--------
+Order ID: 10979
+Product ID: 12
+Unit Price: $38.0
+Quantity: 20
+Discount: 0.0
+Total Price: $760.0
+--------
+Order ID: 10979
+Product ID: 24
+Unit Price: $4.5
+Quantity: 80
+Discount: 0.0
+Total Price: $360.0
+--------
+Order ID: 10979
+Product ID: 27
+Unit Price: $43.9
+Quantity: 30
+Discount: 0.0
+Total Price: $1317.0
+--------
+Order ID: 10979
+Product ID: 31
+Unit Price: $12.5
+Quantity: 24
+Discount: 0.0
+Total Price: $300.0
+--------
+Order ID: 10979
+Product ID: 63
+Unit Price: $43.9
+Quantity: 35
+Discount: 0.0
+Total Price: $1536.5
+--------
+Order ID: 10980
+Product ID: 75
+Unit Price: $7.75
+Quantity: 40
+Discount: 0.2
+Total Price: $248.0
+--------
+Order ID: 10981
+Product ID: 38
+Unit Price: $263.5
+Quantity: 60
+Discount: 0.0
+Total Price: $15810.0
+--------
+Order ID: 10982
+Product ID: 7
+Unit Price: $30.0
+Quantity: 20
+Discount: 0.0
+Total Price: $600.0
+--------
+Order ID: 10982
+Product ID: 43
+Unit Price: $46.0
+Quantity: 9
+Discount: 0.0
+Total Price: $414.0
+--------
+Order ID: 10983
+Product ID: 13
+Unit Price: $6.0
+Quantity: 84
+Discount: 0.15
+Total Price: $428.4
+--------
+Order ID: 10983
+Product ID: 57
+Unit Price: $19.5
+Quantity: 15
+Discount: 0.0
+Total Price: $292.5
+--------
+Order ID: 10984
+Product ID: 16
+Unit Price: $17.45
+Quantity: 55
+Discount: 0.0
+Total Price: $959.75
+--------
+Order ID: 10984
+Product ID: 24
+Unit Price: $4.5
+Quantity: 20
+Discount: 0.0
+Total Price: $90.0
+--------
+Order ID: 10984
+Product ID: 36
+Unit Price: $19.0
+Quantity: 40
+Discount: 0.0
+Total Price: $760.0
+--------
+Order ID: 10985
+Product ID: 16
+Unit Price: $17.45
+Quantity: 36
+Discount: 0.1
+Total Price: $565.3799999999999
+--------
+Order ID: 10985
+Product ID: 18
+Unit Price: $62.5
+Quantity: 8
+Discount: 0.1
+Total Price: $450.0
+--------
+Order ID: 10985
+Product ID: 32
+Unit Price: $32.0
+Quantity: 35
+Discount: 0.1
+Total Price: $1008.0
+--------
+Order ID: 10986
+Product ID: 11
+Unit Price: $21.0
+Quantity: 30
+Discount: 0.0
+Total Price: $630.0
+--------
+Order ID: 10986
+Product ID: 20
+Unit Price: $81.0
+Quantity: 15
+Discount: 0.0
+Total Price: $1215.0
+--------
+Order ID: 10986
+Product ID: 76
+Unit Price: $18.0
+Quantity: 10
+Discount: 0.0
+Total Price: $180.0
+--------
+Order ID: 10986
+Product ID: 77
+Unit Price: $13.0
+Quantity: 15
+Discount: 0.0
+Total Price: $195.0
+--------
+Order ID: 10987
+Product ID: 7
+Unit Price: $30.0
+Quantity: 60
+Discount: 0.0
+Total Price: $1800.0
+--------
+Order ID: 10987
+Product ID: 43
+Unit Price: $46.0
+Quantity: 6
+Discount: 0.0
+Total Price: $276.0
+--------
+Order ID: 10987
+Product ID: 72
+Unit Price: $34.8
+Quantity: 20
+Discount: 0.0
+Total Price: $696.0
+--------
+Order ID: 10988
+Product ID: 7
+Unit Price: $30.0
+Quantity: 60
+Discount: 0.0
+Total Price: $1800.0
+--------
+Order ID: 10988
+Product ID: 62
+Unit Price: $49.3
+Quantity: 40
+Discount: 0.1
+Total Price: $1774.8
+--------
+Order ID: 10989
+Product ID: 6
+Unit Price: $25.0
+Quantity: 40
+Discount: 0.0
+Total Price: $1000.0
+--------
+Order ID: 10989
+Product ID: 11
+Unit Price: $21.0
+Quantity: 15
+Discount: 0.0
+Total Price: $315.0
+--------
+Order ID: 10989
+Product ID: 41
+Unit Price: $9.65
+Quantity: 4
+Discount: 0.0
+Total Price: $38.6
+--------
+Order ID: 10990
+Product ID: 21
+Unit Price: $10.0
+Quantity: 65
+Discount: 0.0
+Total Price: $650.0
+--------
+Order ID: 10990
+Product ID: 34
+Unit Price: $14.0
+Quantity: 60
+Discount: 0.15
+Total Price: $714.0
+--------
+Order ID: 10990
+Product ID: 55
+Unit Price: $24.0
+Quantity: 65
+Discount: 0.15
+Total Price: $1326.0
+--------
+Order ID: 10990
+Product ID: 61
+Unit Price: $28.5
+Quantity: 66
+Discount: 0.15
+Total Price: $1598.85
+--------
+Order ID: 10991
+Product ID: 2
+Unit Price: $19.0
+Quantity: 50
+Discount: 0.2
+Total Price: $760.0
+--------
+Order ID: 10991
+Product ID: 70
+Unit Price: $15.0
+Quantity: 20
+Discount: 0.2
+Total Price: $240.0
+--------
+Order ID: 10991
+Product ID: 76
+Unit Price: $18.0
+Quantity: 90
+Discount: 0.2
+Total Price: $1296.0
+--------
+Order ID: 10992
+Product ID: 72
+Unit Price: $34.8
+Quantity: 2
+Discount: 0.0
+Total Price: $69.6
+--------
+Order ID: 10993
+Product ID: 29
+Unit Price: $123.79
+Quantity: 50
+Discount: 0.25
+Total Price: $4642.125
+--------
+Order ID: 10993
+Product ID: 41
+Unit Price: $9.65
+Quantity: 35
+Discount: 0.25
+Total Price: $253.3125
+--------
+Order ID: 10994
+Product ID: 59
+Unit Price: $55.0
+Quantity: 18
+Discount: 0.05
+Total Price: $940.5
+--------
+Order ID: 10995
+Product ID: 51
+Unit Price: $53.0
+Quantity: 20
+Discount: 0.0
+Total Price: $1060.0
+--------
+Order ID: 10995
+Product ID: 60
+Unit Price: $34.0
+Quantity: 4
+Discount: 0.0
+Total Price: $136.0
+--------
+Order ID: 10996
+Product ID: 42
+Unit Price: $14.0
+Quantity: 40
+Discount: 0.0
+Total Price: $560.0
+--------
+Order ID: 10997
+Product ID: 32
+Unit Price: $32.0
+Quantity: 50
+Discount: 0.0
+Total Price: $1600.0
+--------
+Order ID: 10997
+Product ID: 46
+Unit Price: $12.0
+Quantity: 20
+Discount: 0.25
+Total Price: $180.0
+--------
+Order ID: 10997
+Product ID: 52
+Unit Price: $7.0
+Quantity: 20
+Discount: 0.25
+Total Price: $105.0
+--------
+Order ID: 10998
+Product ID: 24
+Unit Price: $4.5
+Quantity: 12
+Discount: 0.0
+Total Price: $54.0
+--------
+Order ID: 10998
+Product ID: 61
+Unit Price: $28.5
+Quantity: 7
+Discount: 0.0
+Total Price: $199.5
+--------
+Order ID: 10998
+Product ID: 74
+Unit Price: $10.0
+Quantity: 20
+Discount: 0.0
+Total Price: $200.0
+--------
+Order ID: 10998
+Product ID: 75
+Unit Price: $7.75
+Quantity: 30
+Discount: 0.0
+Total Price: $232.5
+--------
+Order ID: 10999
+Product ID: 41
+Unit Price: $9.65
+Quantity: 20
+Discount: 0.05
+Total Price: $183.35
+--------
+Order ID: 10999
+Product ID: 51
+Unit Price: $53.0
+Quantity: 15
+Discount: 0.05
+Total Price: $755.25
+--------
+Order ID: 10999
+Product ID: 77
+Unit Price: $13.0
+Quantity: 21
+Discount: 0.05
+Total Price: $259.35
+--------
+Order ID: 11000
+Product ID: 4
+Unit Price: $22.0
+Quantity: 25
+Discount: 0.25
+Total Price: $412.5
+--------
+Order ID: 11000
+Product ID: 24
+Unit Price: $4.5
+Quantity: 30
+Discount: 0.25
+Total Price: $101.25
+--------
+Order ID: 11000
+Product ID: 77
+Unit Price: $13.0
+Quantity: 30
+Discount: 0.0
+Total Price: $390.0
+--------
+Order ID: 11001
+Product ID: 7
+Unit Price: $30.0
+Quantity: 60
+Discount: 0.0
+Total Price: $1800.0
+--------
+Order ID: 11001
+Product ID: 22
+Unit Price: $21.0
+Quantity: 25
+Discount: 0.0
+Total Price: $525.0
+--------
+Order ID: 11001
+Product ID: 46
+Unit Price: $12.0
+Quantity: 25
+Discount: 0.0
+Total Price: $300.0
+--------
+Order ID: 11001
+Product ID: 55
+Unit Price: $24.0
+Quantity: 6
+Discount: 0.0
+Total Price: $144.0
+--------
+Order ID: 11002
+Product ID: 13
+Unit Price: $6.0
+Quantity: 56
+Discount: 0.0
+Total Price: $336.0
+--------
+Order ID: 11002
+Product ID: 35
+Unit Price: $18.0
+Quantity: 15
+Discount: 0.15
+Total Price: $229.5
+--------
+Order ID: 11002
+Product ID: 42
+Unit Price: $14.0
+Quantity: 24
+Discount: 0.15
+Total Price: $285.6
+--------
+Order ID: 11002
+Product ID: 55
+Unit Price: $24.0
+Quantity: 40
+Discount: 0.0
+Total Price: $960.0
+--------
+Order ID: 11003
+Product ID: 1
+Unit Price: $18.0
+Quantity: 4
+Discount: 0.0
+Total Price: $72.0
+--------
+Order ID: 11003
+Product ID: 40
+Unit Price: $18.4
+Quantity: 10
+Discount: 0.0
+Total Price: $184.0
+--------
+Order ID: 11003
+Product ID: 52
+Unit Price: $7.0
+Quantity: 10
+Discount: 0.0
+Total Price: $70.0
+--------
+Order ID: 11004
+Product ID: 26
+Unit Price: $31.23
+Quantity: 6
+Discount: 0.0
+Total Price: $187.38
+--------
+Order ID: 11004
+Product ID: 76
+Unit Price: $18.0
+Quantity: 6
+Discount: 0.0
+Total Price: $108.0
+--------
+Order ID: 11005
+Product ID: 1
+Unit Price: $18.0
+Quantity: 2
+Discount: 0.0
+Total Price: $36.0
+--------
+Order ID: 11005
+Product ID: 59
+Unit Price: $55.0
+Quantity: 10
+Discount: 0.0
+Total Price: $550.0
+--------
+Order ID: 11006
+Product ID: 1
+Unit Price: $18.0
+Quantity: 8
+Discount: 0.0
+Total Price: $144.0
+--------
+Order ID: 11006
+Product ID: 29
+Unit Price: $123.79
+Quantity: 2
+Discount: 0.25
+Total Price: $185.685
+--------
+Order ID: 11007
+Product ID: 8
+Unit Price: $40.0
+Quantity: 30
+Discount: 0.0
+Total Price: $1200.0
+--------
+Order ID: 11007
+Product ID: 29
+Unit Price: $123.79
+Quantity: 10
+Discount: 0.0
+Total Price: $1237.9
+--------
+Order ID: 11007
+Product ID: 42
+Unit Price: $14.0
+Quantity: 14
+Discount: 0.0
+Total Price: $196.0
+--------
+Order ID: 11008
+Product ID: 28
+Unit Price: $45.6
+Quantity: 70
+Discount: 0.05
+Total Price: $3032.4
+--------
+Order ID: 11008
+Product ID: 34
+Unit Price: $14.0
+Quantity: 90
+Discount: 0.05
+Total Price: $1197.0
+--------
+Order ID: 11008
+Product ID: 71
+Unit Price: $21.5
+Quantity: 21
+Discount: 0.0
+Total Price: $451.5
+--------
+Order ID: 11009
+Product ID: 24
+Unit Price: $4.5
+Quantity: 12
+Discount: 0.0
+Total Price: $54.0
+--------
+Order ID: 11009
+Product ID: 36
+Unit Price: $19.0
+Quantity: 18
+Discount: 0.25
+Total Price: $256.5
+--------
+Order ID: 11009
+Product ID: 60
+Unit Price: $34.0
+Quantity: 9
+Discount: 0.0
+Total Price: $306.0
+--------
+Order ID: 11010
+Product ID: 7
+Unit Price: $30.0
+Quantity: 20
+Discount: 0.0
+Total Price: $600.0
+--------
+Order ID: 11010
+Product ID: 24
+Unit Price: $4.5
+Quantity: 10
+Discount: 0.0
+Total Price: $45.0
+--------
+Order ID: 11011
+Product ID: 58
+Unit Price: $13.25
+Quantity: 40
+Discount: 0.05
+Total Price: $503.5
+--------
+Order ID: 11011
+Product ID: 71
+Unit Price: $21.5
+Quantity: 20
+Discount: 0.0
+Total Price: $430.0
+--------
+Order ID: 11012
+Product ID: 19
+Unit Price: $9.2
+Quantity: 50
+Discount: 0.05
+Total Price: $436.99999999999994
+--------
+Order ID: 11012
+Product ID: 60
+Unit Price: $34.0
+Quantity: 36
+Discount: 0.05
+Total Price: $1162.8
+--------
+Order ID: 11012
+Product ID: 71
+Unit Price: $21.5
+Quantity: 60
+Discount: 0.05
+Total Price: $1225.5
+--------
+Order ID: 11013
+Product ID: 23
+Unit Price: $9.0
+Quantity: 10
+Discount: 0.0
+Total Price: $90.0
+--------
+Order ID: 11013
+Product ID: 42
+Unit Price: $14.0
+Quantity: 4
+Discount: 0.0
+Total Price: $56.0
+--------
+Order ID: 11013
+Product ID: 45
+Unit Price: $9.5
+Quantity: 20
+Discount: 0.0
+Total Price: $190.0
+--------
+Order ID: 11013
+Product ID: 68
+Unit Price: $12.5
+Quantity: 2
+Discount: 0.0
+Total Price: $25.0
+--------
+Order ID: 11014
+Product ID: 41
+Unit Price: $9.65
+Quantity: 28
+Discount: 0.1
+Total Price: $243.17999999999998
+--------
+Order ID: 11015
+Product ID: 30
+Unit Price: $25.89
+Quantity: 15
+Discount: 0.0
+Total Price: $388.35
+--------
+Order ID: 11015
+Product ID: 77
+Unit Price: $13.0
+Quantity: 18
+Discount: 0.0
+Total Price: $234.0
+--------
+Order ID: 11016
+Product ID: 31
+Unit Price: $12.5
+Quantity: 15
+Discount: 0.0
+Total Price: $187.5
+--------
+Order ID: 11016
+Product ID: 36
+Unit Price: $19.0
+Quantity: 16
+Discount: 0.0
+Total Price: $304.0
+--------
+Order ID: 11017
+Product ID: 3
+Unit Price: $10.0
+Quantity: 25
+Discount: 0.0
+Total Price: $250.0
+--------
+Order ID: 11017
+Product ID: 59
+Unit Price: $55.0
+Quantity: 110
+Discount: 0.0
+Total Price: $6050.0
+--------
+Order ID: 11017
+Product ID: 70
+Unit Price: $15.0
+Quantity: 30
+Discount: 0.0
+Total Price: $450.0
+--------
+Order ID: 11018
+Product ID: 12
+Unit Price: $38.0
+Quantity: 20
+Discount: 0.0
+Total Price: $760.0
+--------
+Order ID: 11018
+Product ID: 18
+Unit Price: $62.5
+Quantity: 10
+Discount: 0.0
+Total Price: $625.0
+--------
+Order ID: 11018
+Product ID: 56
+Unit Price: $38.0
+Quantity: 5
+Discount: 0.0
+Total Price: $190.0
+--------
+Order ID: 11019
+Product ID: 46
+Unit Price: $12.0
+Quantity: 3
+Discount: 0.0
+Total Price: $36.0
+--------
+Order ID: 11019
+Product ID: 49
+Unit Price: $20.0
+Quantity: 2
+Discount: 0.0
+Total Price: $40.0
+--------
+Order ID: 11020
+Product ID: 10
+Unit Price: $31.0
+Quantity: 24
+Discount: 0.15
+Total Price: $632.4
+--------
+Order ID: 11021
+Product ID: 2
+Unit Price: $19.0
+Quantity: 11
+Discount: 0.25
+Total Price: $156.75
+--------
+Order ID: 11021
+Product ID: 20
+Unit Price: $81.0
+Quantity: 15
+Discount: 0.0
+Total Price: $1215.0
+--------
+Order ID: 11021
+Product ID: 26
+Unit Price: $31.23
+Quantity: 63
+Discount: 0.0
+Total Price: $1967.49
+--------
+Order ID: 11021
+Product ID: 51
+Unit Price: $53.0
+Quantity: 44
+Discount: 0.25
+Total Price: $1749.0
+--------
+Order ID: 11021
+Product ID: 72
+Unit Price: $34.8
+Quantity: 35
+Discount: 0.0
+Total Price: $1218.0
+--------
+Order ID: 11022
+Product ID: 19
+Unit Price: $9.2
+Quantity: 35
+Discount: 0.0
+Total Price: $322.0
+--------
+Order ID: 11022
+Product ID: 69
+Unit Price: $36.0
+Quantity: 30
+Discount: 0.0
+Total Price: $1080.0
+--------
+Order ID: 11023
+Product ID: 7
+Unit Price: $30.0
+Quantity: 4
+Discount: 0.0
+Total Price: $120.0
+--------
+Order ID: 11023
+Product ID: 43
+Unit Price: $46.0
+Quantity: 30
+Discount: 0.0
+Total Price: $1380.0
+--------
+Order ID: 11024
+Product ID: 26
+Unit Price: $31.23
+Quantity: 12
+Discount: 0.0
+Total Price: $374.76
+--------
+Order ID: 11024
+Product ID: 33
+Unit Price: $2.5
+Quantity: 30
+Discount: 0.0
+Total Price: $75.0
+--------
+Order ID: 11024
+Product ID: 65
+Unit Price: $21.05
+Quantity: 21
+Discount: 0.0
+Total Price: $442.05
+--------
+Order ID: 11024
+Product ID: 71
+Unit Price: $21.5
+Quantity: 50
+Discount: 0.0
+Total Price: $1075.0
+--------
+Order ID: 11025
+Product ID: 1
+Unit Price: $18.0
+Quantity: 10
+Discount: 0.1
+Total Price: $162.0
+--------
+Order ID: 11025
+Product ID: 13
+Unit Price: $6.0
+Quantity: 20
+Discount: 0.1
+Total Price: $108.0
+--------
+Order ID: 11026
+Product ID: 18
+Unit Price: $62.5
+Quantity: 8
+Discount: 0.0
+Total Price: $500.0
+--------
+Order ID: 11026
+Product ID: 51
+Unit Price: $53.0
+Quantity: 10
+Discount: 0.0
+Total Price: $530.0
+--------
+Order ID: 11027
+Product ID: 24
+Unit Price: $4.5
+Quantity: 30
+Discount: 0.25
+Total Price: $101.25
+--------
+Order ID: 11027
+Product ID: 62
+Unit Price: $49.3
+Quantity: 21
+Discount: 0.25
+Total Price: $776.4749999999999
+--------
+Order ID: 11028
+Product ID: 55
+Unit Price: $24.0
+Quantity: 35
+Discount: 0.0
+Total Price: $840.0
+--------
+Order ID: 11028
+Product ID: 59
+Unit Price: $55.0
+Quantity: 24
+Discount: 0.0
+Total Price: $1320.0
+--------
+Order ID: 11029
+Product ID: 56
+Unit Price: $38.0
+Quantity: 20
+Discount: 0.0
+Total Price: $760.0
+--------
+Order ID: 11029
+Product ID: 63
+Unit Price: $43.9
+Quantity: 12
+Discount: 0.0
+Total Price: $526.8
+--------
+Order ID: 11030
+Product ID: 2
+Unit Price: $19.0
+Quantity: 100
+Discount: 0.25
+Total Price: $1425.0
+--------
+Order ID: 11030
+Product ID: 5
+Unit Price: $21.35
+Quantity: 70
+Discount: 0.0
+Total Price: $1494.5
+--------
+Order ID: 11030
+Product ID: 29
+Unit Price: $123.79
+Quantity: 60
+Discount: 0.25
+Total Price: $5570.55
+--------
+Order ID: 11030
+Product ID: 59
+Unit Price: $55.0
+Quantity: 100
+Discount: 0.25
+Total Price: $4125.0
+--------
+Order ID: 11031
+Product ID: 1
+Unit Price: $18.0
+Quantity: 45
+Discount: 0.0
+Total Price: $810.0
+--------
+Order ID: 11031
+Product ID: 13
+Unit Price: $6.0
+Quantity: 80
+Discount: 0.0
+Total Price: $480.0
+--------
+Order ID: 11031
+Product ID: 24
+Unit Price: $4.5
+Quantity: 21
+Discount: 0.0
+Total Price: $94.5
+--------
+Order ID: 11031
+Product ID: 64
+Unit Price: $33.25
+Quantity: 20
+Discount: 0.0
+Total Price: $665.0
+--------
+Order ID: 11031
+Product ID: 71
+Unit Price: $21.5
+Quantity: 16
+Discount: 0.0
+Total Price: $344.0
+--------
+Order ID: 11032
+Product ID: 36
+Unit Price: $19.0
+Quantity: 35
+Discount: 0.0
+Total Price: $665.0
+--------
+Order ID: 11032
+Product ID: 38
+Unit Price: $263.5
+Quantity: 25
+Discount: 0.0
+Total Price: $6587.5
+--------
+Order ID: 11032
+Product ID: 59
+Unit Price: $55.0
+Quantity: 30
+Discount: 0.0
+Total Price: $1650.0
+--------
+Order ID: 11033
+Product ID: 53
+Unit Price: $32.8
+Quantity: 70
+Discount: 0.1
+Total Price: $2066.4
+--------
+Order ID: 11033
+Product ID: 69
+Unit Price: $36.0
+Quantity: 36
+Discount: 0.1
+Total Price: $1166.4
+--------
+Order ID: 11034
+Product ID: 21
+Unit Price: $10.0
+Quantity: 15
+Discount: 0.1
+Total Price: $135.0
+--------
+Order ID: 11034
+Product ID: 44
+Unit Price: $19.45
+Quantity: 12
+Discount: 0.0
+Total Price: $233.39999999999998
+--------
+Order ID: 11034
+Product ID: 61
+Unit Price: $28.5
+Quantity: 6
+Discount: 0.0
+Total Price: $171.0
+--------
+Order ID: 11035
+Product ID: 1
+Unit Price: $18.0
+Quantity: 10
+Discount: 0.0
+Total Price: $180.0
+--------
+Order ID: 11035
+Product ID: 35
+Unit Price: $18.0
+Quantity: 60
+Discount: 0.0
+Total Price: $1080.0
+--------
+Order ID: 11035
+Product ID: 42
+Unit Price: $14.0
+Quantity: 30
+Discount: 0.0
+Total Price: $420.0
+--------
+Order ID: 11035
+Product ID: 54
+Unit Price: $7.45
+Quantity: 10
+Discount: 0.0
+Total Price: $74.5
+--------
+Order ID: 11036
+Product ID: 13
+Unit Price: $6.0
+Quantity: 7
+Discount: 0.0
+Total Price: $42.0
+--------
+Order ID: 11036
+Product ID: 59
+Unit Price: $55.0
+Quantity: 30
+Discount: 0.0
+Total Price: $1650.0
+--------
+Order ID: 11037
+Product ID: 70
+Unit Price: $15.0
+Quantity: 4
+Discount: 0.0
+Total Price: $60.0
+--------
+Order ID: 11038
+Product ID: 40
+Unit Price: $18.4
+Quantity: 5
+Discount: 0.2
+Total Price: $73.6
+--------
+Order ID: 11038
+Product ID: 52
+Unit Price: $7.0
+Quantity: 2
+Discount: 0.0
+Total Price: $14.0
+--------
+Order ID: 11038
+Product ID: 71
+Unit Price: $21.5
+Quantity: 30
+Discount: 0.0
+Total Price: $645.0
+--------
+Order ID: 11039
+Product ID: 28
+Unit Price: $45.6
+Quantity: 20
+Discount: 0.0
+Total Price: $912.0
+--------
+Order ID: 11039
+Product ID: 35
+Unit Price: $18.0
+Quantity: 24
+Discount: 0.0
+Total Price: $432.0
+--------
+Order ID: 11039
+Product ID: 49
+Unit Price: $20.0
+Quantity: 60
+Discount: 0.0
+Total Price: $1200.0
+--------
+Order ID: 11039
+Product ID: 57
+Unit Price: $19.5
+Quantity: 28
+Discount: 0.0
+Total Price: $546.0
+--------
+Order ID: 11040
+Product ID: 21
+Unit Price: $10.0
+Quantity: 20
+Discount: 0.0
+Total Price: $200.0
+--------
+Order ID: 11041
+Product ID: 2
+Unit Price: $19.0
+Quantity: 30
+Discount: 0.2
+Total Price: $456.0
+--------
+Order ID: 11041
+Product ID: 63
+Unit Price: $43.9
+Quantity: 30
+Discount: 0.0
+Total Price: $1317.0
+--------
+Order ID: 11042
+Product ID: 44
+Unit Price: $19.45
+Quantity: 15
+Discount: 0.0
+Total Price: $291.75
+--------
+Order ID: 11042
+Product ID: 61
+Unit Price: $28.5
+Quantity: 4
+Discount: 0.0
+Total Price: $114.0
+--------
+Order ID: 11043
+Product ID: 11
+Unit Price: $21.0
+Quantity: 10
+Discount: 0.0
+Total Price: $210.0
+--------
+Order ID: 11044
+Product ID: 62
+Unit Price: $49.3
+Quantity: 12
+Discount: 0.0
+Total Price: $591.5999999999999
+--------
+Order ID: 11045
+Product ID: 33
+Unit Price: $2.5
+Quantity: 15
+Discount: 0.0
+Total Price: $37.5
+--------
+Order ID: 11045
+Product ID: 51
+Unit Price: $53.0
+Quantity: 24
+Discount: 0.0
+Total Price: $1272.0
+--------
+Order ID: 11046
+Product ID: 12
+Unit Price: $38.0
+Quantity: 20
+Discount: 0.05
+Total Price: $722.0
+--------
+Order ID: 11046
+Product ID: 32
+Unit Price: $32.0
+Quantity: 15
+Discount: 0.05
+Total Price: $456.0
+--------
+Order ID: 11046
+Product ID: 35
+Unit Price: $18.0
+Quantity: 18
+Discount: 0.05
+Total Price: $307.8
+--------
+Order ID: 11047
+Product ID: 1
+Unit Price: $18.0
+Quantity: 25
+Discount: 0.25
+Total Price: $337.5
+--------
+Order ID: 11047
+Product ID: 5
+Unit Price: $21.35
+Quantity: 30
+Discount: 0.25
+Total Price: $480.375
+--------
+Order ID: 11048
+Product ID: 68
+Unit Price: $12.5
+Quantity: 42
+Discount: 0.0
+Total Price: $525.0
+--------
+Order ID: 11049
+Product ID: 2
+Unit Price: $19.0
+Quantity: 10
+Discount: 0.2
+Total Price: $152.0
+--------
+Order ID: 11049
+Product ID: 12
+Unit Price: $38.0
+Quantity: 4
+Discount: 0.2
+Total Price: $121.6
+--------
+Order ID: 11050
+Product ID: 76
+Unit Price: $18.0
+Quantity: 50
+Discount: 0.1
+Total Price: $810.0
+--------
+Order ID: 11051
+Product ID: 24
+Unit Price: $4.5
+Quantity: 10
+Discount: 0.2
+Total Price: $36.0
+--------
+Order ID: 11052
+Product ID: 43
+Unit Price: $46.0
+Quantity: 30
+Discount: 0.2
+Total Price: $1104.0
+--------
+Order ID: 11052
+Product ID: 61
+Unit Price: $28.5
+Quantity: 10
+Discount: 0.2
+Total Price: $228.0
+--------
+Order ID: 11053
+Product ID: 18
+Unit Price: $62.5
+Quantity: 35
+Discount: 0.2
+Total Price: $1750.0
+--------
+Order ID: 11053
+Product ID: 32
+Unit Price: $32.0
+Quantity: 20
+Discount: 0.0
+Total Price: $640.0
+--------
+Order ID: 11053
+Product ID: 64
+Unit Price: $33.25
+Quantity: 25
+Discount: 0.2
+Total Price: $665.0
+--------
+Order ID: 11054
+Product ID: 33
+Unit Price: $2.5
+Quantity: 10
+Discount: 0.0
+Total Price: $25.0
+--------
+Order ID: 11054
+Product ID: 67
+Unit Price: $14.0
+Quantity: 20
+Discount: 0.0
+Total Price: $280.0
+--------
+Order ID: 11055
+Product ID: 24
+Unit Price: $4.5
+Quantity: 15
+Discount: 0.0
+Total Price: $67.5
+--------
+Order ID: 11055
+Product ID: 25
+Unit Price: $14.0
+Quantity: 15
+Discount: 0.0
+Total Price: $210.0
+--------
+Order ID: 11055
+Product ID: 51
+Unit Price: $53.0
+Quantity: 20
+Discount: 0.0
+Total Price: $1060.0
+--------
+Order ID: 11055
+Product ID: 57
+Unit Price: $19.5
+Quantity: 20
+Discount: 0.0
+Total Price: $390.0
+--------
+Order ID: 11056
+Product ID: 7
+Unit Price: $30.0
+Quantity: 40
+Discount: 0.0
+Total Price: $1200.0
+--------
+Order ID: 11056
+Product ID: 55
+Unit Price: $24.0
+Quantity: 35
+Discount: 0.0
+Total Price: $840.0
+--------
+Order ID: 11056
+Product ID: 60
+Unit Price: $34.0
+Quantity: 50
+Discount: 0.0
+Total Price: $1700.0
+--------
+Order ID: 11057
+Product ID: 70
+Unit Price: $15.0
+Quantity: 3
+Discount: 0.0
+Total Price: $45.0
+--------
+Order ID: 11058
+Product ID: 21
+Unit Price: $10.0
+Quantity: 3
+Discount: 0.0
+Total Price: $30.0
+--------
+Order ID: 11058
+Product ID: 60
+Unit Price: $34.0
+Quantity: 21
+Discount: 0.0
+Total Price: $714.0
+--------
+Order ID: 11058
+Product ID: 61
+Unit Price: $28.5
+Quantity: 4
+Discount: 0.0
+Total Price: $114.0
+--------
+Order ID: 11059
+Product ID: 13
+Unit Price: $6.0
+Quantity: 30
+Discount: 0.0
+Total Price: $180.0
+--------
+Order ID: 11059
+Product ID: 17
+Unit Price: $39.0
+Quantity: 12
+Discount: 0.0
+Total Price: $468.0
+--------
+Order ID: 11059
+Product ID: 60
+Unit Price: $34.0
+Quantity: 35
+Discount: 0.0
+Total Price: $1190.0
+--------
+Order ID: 11060
+Product ID: 60
+Unit Price: $34.0
+Quantity: 4
+Discount: 0.0
+Total Price: $136.0
+--------
+Order ID: 11060
+Product ID: 77
+Unit Price: $13.0
+Quantity: 10
+Discount: 0.0
+Total Price: $130.0
+--------
+Order ID: 11061
+Product ID: 60
+Unit Price: $34.0
+Quantity: 15
+Discount: 0.0
+Total Price: $510.0
+--------
+Order ID: 11062
+Product ID: 53
+Unit Price: $32.8
+Quantity: 10
+Discount: 0.2
+Total Price: $262.4
+--------
+Order ID: 11062
+Product ID: 70
+Unit Price: $15.0
+Quantity: 12
+Discount: 0.2
+Total Price: $144.0
+--------
+Order ID: 11063
+Product ID: 34
+Unit Price: $14.0
+Quantity: 30
+Discount: 0.0
+Total Price: $420.0
+--------
+Order ID: 11063
+Product ID: 40
+Unit Price: $18.4
+Quantity: 40
+Discount: 0.1
+Total Price: $662.4
+--------
+Order ID: 11063
+Product ID: 41
+Unit Price: $9.65
+Quantity: 30
+Discount: 0.1
+Total Price: $260.55
+--------
+Order ID: 11064
+Product ID: 17
+Unit Price: $39.0
+Quantity: 77
+Discount: 0.1
+Total Price: $2702.7
+--------
+Order ID: 11064
+Product ID: 41
+Unit Price: $9.65
+Quantity: 12
+Discount: 0.0
+Total Price: $115.80000000000001
+--------
+Order ID: 11064
+Product ID: 53
+Unit Price: $32.8
+Quantity: 25
+Discount: 0.1
+Total Price: $737.9999999999999
+--------
+Order ID: 11064
+Product ID: 55
+Unit Price: $24.0
+Quantity: 4
+Discount: 0.1
+Total Price: $86.4
+--------
+Order ID: 11064
+Product ID: 68
+Unit Price: $12.5
+Quantity: 55
+Discount: 0.0
+Total Price: $687.5
+--------
+Order ID: 11065
+Product ID: 30
+Unit Price: $25.89
+Quantity: 4
+Discount: 0.25
+Total Price: $77.67
+--------
+Order ID: 11065
+Product ID: 54
+Unit Price: $7.45
+Quantity: 20
+Discount: 0.25
+Total Price: $111.75
+--------
+Order ID: 11066
+Product ID: 16
+Unit Price: $17.45
+Quantity: 3
+Discount: 0.0
+Total Price: $52.349999999999994
+--------
+Order ID: 11066
+Product ID: 19
+Unit Price: $9.2
+Quantity: 42
+Discount: 0.0
+Total Price: $386.4
+--------
+Order ID: 11066
+Product ID: 34
+Unit Price: $14.0
+Quantity: 35
+Discount: 0.0
+Total Price: $490.0
+--------
+Order ID: 11067
+Product ID: 41
+Unit Price: $9.65
+Quantity: 9
+Discount: 0.0
+Total Price: $86.85000000000001
+--------
+Order ID: 11068
+Product ID: 28
+Unit Price: $45.6
+Quantity: 8
+Discount: 0.15
+Total Price: $310.08000000000004
+--------
+Order ID: 11068
+Product ID: 43
+Unit Price: $46.0
+Quantity: 36
+Discount: 0.15
+Total Price: $1407.6
+--------
+Order ID: 11068
+Product ID: 77
+Unit Price: $13.0
+Quantity: 28
+Discount: 0.15
+Total Price: $309.4
+--------
+Order ID: 11069
+Product ID: 39
+Unit Price: $18.0
+Quantity: 20
+Discount: 0.0
+Total Price: $360.0
+--------
+Order ID: 11070
+Product ID: 1
+Unit Price: $18.0
+Quantity: 40
+Discount: 0.15
+Total Price: $612.0
+--------
+Order ID: 11070
+Product ID: 2
+Unit Price: $19.0
+Quantity: 20
+Discount: 0.15
+Total Price: $323.0
+--------
+Order ID: 11070
+Product ID: 16
+Unit Price: $17.45
+Quantity: 30
+Discount: 0.15
+Total Price: $444.975
+--------
+Order ID: 11070
+Product ID: 31
+Unit Price: $12.5
+Quantity: 20
+Discount: 0.0
+Total Price: $250.0
+--------
+Order ID: 11071
+Product ID: 7
+Unit Price: $30.0
+Quantity: 15
+Discount: 0.05
+Total Price: $427.5
+--------
+Order ID: 11071
+Product ID: 13
+Unit Price: $6.0
+Quantity: 10
+Discount: 0.05
+Total Price: $57.0
+--------
+Order ID: 11072
+Product ID: 2
+Unit Price: $19.0
+Quantity: 8
+Discount: 0.0
+Total Price: $152.0
+--------
+Order ID: 11072
+Product ID: 41
+Unit Price: $9.65
+Quantity: 40
+Discount: 0.0
+Total Price: $386.0
+--------
+Order ID: 11072
+Product ID: 50
+Unit Price: $16.25
+Quantity: 22
+Discount: 0.0
+Total Price: $357.5
+--------
+Order ID: 11072
+Product ID: 64
+Unit Price: $33.25
+Quantity: 130
+Discount: 0.0
+Total Price: $4322.5
+--------
+Order ID: 11073
+Product ID: 11
+Unit Price: $21.0
+Quantity: 10
+Discount: 0.0
+Total Price: $210.0
+--------
+Order ID: 11073
+Product ID: 24
+Unit Price: $4.5
+Quantity: 20
+Discount: 0.0
+Total Price: $90.0
+--------
+Order ID: 11074
+Product ID: 16
+Unit Price: $17.45
+Quantity: 14
+Discount: 0.05
+Total Price: $232.08499999999998
+--------
+Order ID: 11075
+Product ID: 2
+Unit Price: $19.0
+Quantity: 10
+Discount: 0.15
+Total Price: $161.5
+--------
+Order ID: 11075
+Product ID: 46
+Unit Price: $12.0
+Quantity: 30
+Discount: 0.15
+Total Price: $306.0
+--------
+Order ID: 11075
+Product ID: 76
+Unit Price: $18.0
+Quantity: 2
+Discount: 0.15
+Total Price: $30.6
+--------
+Order ID: 11076
+Product ID: 6
+Unit Price: $25.0
+Quantity: 20
+Discount: 0.25
+Total Price: $375.0
+--------
+Order ID: 11076
+Product ID: 14
+Unit Price: $23.25
+Quantity: 20
+Discount: 0.25
+Total Price: $348.75
+--------
+Order ID: 11076
+Product ID: 19
+Unit Price: $9.2
+Quantity: 10
+Discount: 0.25
+Total Price: $69.0
+--------
+Order ID: 11077
+Product ID: 2
+Unit Price: $19.0
+Quantity: 24
+Discount: 0.2
+Total Price: $364.79999999999995
+--------
+Order ID: 11077
+Product ID: 3
+Unit Price: $10.0
+Quantity: 4
+Discount: 0.0
+Total Price: $40.0
+--------
+Order ID: 11077
+Product ID: 4
+Unit Price: $22.0
+Quantity: 1
+Discount: 0.0
+Total Price: $22.0
+--------
+Order ID: 11077
+Product ID: 6
+Unit Price: $25.0
+Quantity: 1
+Discount: 0.02
+Total Price: $24.5
+--------
+Order ID: 11077
+Product ID: 7
+Unit Price: $30.0
+Quantity: 1
+Discount: 0.05
+Total Price: $28.5
+--------
+Order ID: 11077
+Product ID: 8
+Unit Price: $40.0
+Quantity: 2
+Discount: 0.1
+Total Price: $72.0
+--------
+Order ID: 11077
+Product ID: 10
+Unit Price: $31.0
+Quantity: 1
+Discount: 0.0
+Total Price: $31.0
+--------
+Order ID: 11077
+Product ID: 12
+Unit Price: $38.0
+Quantity: 2
+Discount: 0.05
+Total Price: $72.2
+--------
+Order ID: 11077
+Product ID: 13
+Unit Price: $6.0
+Quantity: 4
+Discount: 0.0
+Total Price: $24.0
+--------
+Order ID: 11077
+Product ID: 14
+Unit Price: $23.25
+Quantity: 1
+Discount: 0.03
+Total Price: $22.5525
+--------
+Order ID: 11077
+Product ID: 16
+Unit Price: $17.45
+Quantity: 2
+Discount: 0.03
+Total Price: $33.853
+--------
+Order ID: 11077
+Product ID: 20
+Unit Price: $81.0
+Quantity: 1
+Discount: 0.04
+Total Price: $77.76
+--------
+Order ID: 11077
+Product ID: 23
+Unit Price: $9.0
+Quantity: 2
+Discount: 0.0
+Total Price: $18.0
+--------
+Order ID: 11077
+Product ID: 32
+Unit Price: $32.0
+Quantity: 1
+Discount: 0.0
+Total Price: $32.0
+--------
+Order ID: 11077
+Product ID: 39
+Unit Price: $18.0
+Quantity: 2
+Discount: 0.05
+Total Price: $34.2
+--------
+Order ID: 11077
+Product ID: 41
+Unit Price: $9.65
+Quantity: 3
+Discount: 0.0
+Total Price: $28.950000000000003
+--------
+Order ID: 11077
+Product ID: 46
+Unit Price: $12.0
+Quantity: 3
+Discount: 0.02
+Total Price: $35.28
+--------
+Order ID: 11077
+Product ID: 52
+Unit Price: $7.0
+Quantity: 2
+Discount: 0.0
+Total Price: $14.0
+--------
+Order ID: 11077
+Product ID: 55
+Unit Price: $24.0
+Quantity: 2
+Discount: 0.0
+Total Price: $48.0
+--------
+Order ID: 11077
+Product ID: 60
+Unit Price: $34.0
+Quantity: 2
+Discount: 0.06
+Total Price: $63.92
+--------
+Order ID: 11077
+Product ID: 64
+Unit Price: $33.25
+Quantity: 2
+Discount: 0.03
+Total Price: $64.505
+--------
+Order ID: 11077
+Product ID: 66
+Unit Price: $17.0
+Quantity: 1
+Discount: 0.0
+Total Price: $17.0
+--------
+Order ID: 11077
+Product ID: 73
+Unit Price: $15.0
+Quantity: 2
+Discount: 0.01
+Total Price: $29.7
+--------
+Order ID: 11077
+Product ID: 75
+Unit Price: $7.75
+Quantity: 4
+Discount: 0.0
+Total Price: $31.0
+--------
+Order ID: 11077
+Product ID: 77
+Unit Price: $13.0
+Quantity: 2
+Discount: 0.0
+Total Price: $26.0
+--------
+
+ ----jGRASP: operation complete.
