@@ -30,3 +30,23 @@ public class OrderDetailsProcessor {
             return null;
         }
     }
+
+    public static void processOrderDetails(ArrayList<String[]> orderData) {
+        for (String[] values : orderData) {
+            int quantity = Integer.parseInt(values[0]);
+            double unitPrice = Double.parseDouble(values[1]);
+            String orderId = values[2];
+            String productId = values[3];
+            double discount = Double.parseDouble(values[4]);
+
+            double totalPrice = calculateTotalPrice(quantity, unitPrice, discount);
+
+            System.out.println("Order ID: " + orderId);
+            System.out.println("Product ID: " + productId);
+            System.out.println("Unit Price: $" + unitPrice);
+            System.out.println("Quantity: " + quantity);
+            System.out.println("Discount: " + discount);
+            System.out.println("Total Price: $" + totalPrice);
+            System.out.println("--------");
+        }
+    }
